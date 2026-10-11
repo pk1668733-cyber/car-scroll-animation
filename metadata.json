@@ -1,0 +1,8 @@
+{
+  "name": "Scroll-Driven Hero Section Animation",
+  "description": "High-performance scroll-driven car animation hero section with GSAP ScrollTrigger, letter reveal, and impact metrics inspired by ITZ FIZZ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
